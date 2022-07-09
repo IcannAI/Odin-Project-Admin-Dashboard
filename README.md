@@ -1,1 +1,3 @@
-# Odin-Project-Admin-Dashboard
+# Project: Admin Dashboard
+
+### [Guideline](https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard)
